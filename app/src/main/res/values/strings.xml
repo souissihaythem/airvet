@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Airvet</string>
+
+    <string name="joined">Joined</string>
+    <string name="location">Location</string>
+    <string name="nationality">Nationality</string>
+    <string name="years_ago">years ago</string>
+    <string name="years_old">years old</string>
+    <string name="female" translatable="false">female</string>
+</resources>
